@@ -14,6 +14,9 @@
 * 3D printed parts (see .stl folder or the .f3d folder)
 * 20 mL plastic syringe
   * https://www.mcmaster.com/syringes/plastic-syringes-with-luer-lock-connection/capacity~20milliliters/
+  * I may add a version that is syringe agnostic, depending on my needs. 
+* 4 M5 screws
+* 2 M2 screws
 # Tools required
 * Soldering iron and solder
 * Access to a 3D printer
