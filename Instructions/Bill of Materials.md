@@ -24,4 +24,4 @@
 * Access to a 3D printer
 * Metric hex wrenches
 * Multimeter
-* Small screwdriver
+* Small philip's screwdriver
