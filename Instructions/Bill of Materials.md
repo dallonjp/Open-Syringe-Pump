@@ -6,6 +6,7 @@
   * If this is no longer being manufactured, another one with a Nema 17 stepper motor will work. You will need to adjust the 3D printed parts accordingly.
 * Polulu A4988 stepper driver
   * https://www.pololu.com/product/1182
+* 50-100 uF capacitor
 * USB cable to connect to arduino
 * 12 V power supply
 * Limit switch end stop
