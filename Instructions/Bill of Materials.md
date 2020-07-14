@@ -20,6 +20,7 @@
 
 # Tools required
 * Soldering iron and solder
+* Wire strippers/pliers
 * Access to a 3D printer
 * Metric hex wrenches
 * Multimeter
