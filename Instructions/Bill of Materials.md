@@ -17,9 +17,10 @@
 * 4 M5 screws
 * 2 M2 screws
 * Insulated 8/10/12 gauge wires
-* Molex pin set with crimping tool
+* Molex pin set
 
 # Tools required
+* Molex pin crimping tool
 * Soldering iron and solder
 * Wire strippers/pliers
 * Access to a 3D printer
