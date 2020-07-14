@@ -11,9 +11,8 @@
 * Limit switch end stop
   * https://www.amazon.com/dp/B06XTB7WMK/ref=cm_sw_r_tw_dp_x_8F5-EbGETP0D2
 * 3D printed parts (see .stl folder or the .f3d folder)
-* 20 mL plastic syringe
-  * https://www.mcmaster.com/syringes/plastic-syringes-with-luer-lock-connection/capacity~20milliliters/
-  * I may add a version that is syringe agnostic, depending on my needs. 
+* 20 mL Air-Tite glass syringe
+  * https://www.amazon.com/Air-Tite-Glass-Syringe-Metal-Clear/dp/B00BQLLMQ8/ref=cm_cr_arp_d_pb_opt?ie=UTF8
 * 4 M5 screws
 * 2 M2 screws
 * Insulated 8/10/12 gauge wires
